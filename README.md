@@ -24,6 +24,9 @@ Para utilizar o sistema como admin é necessario que o nome do usuário seja "ad
 Contribuintes
 
 Andre Silva - Aluno 1
+
 Leonardo Machado - Aluno 2
+
 Alexandre Garcia - Professor FATEC Santos
+
 David Miller - Criador do template - https://github.com/davidtmiller
